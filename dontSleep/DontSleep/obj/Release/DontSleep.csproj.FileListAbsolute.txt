@@ -1,0 +1,13 @@
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\bin\Release\DontSleep.exe.config
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\bin\Release\DontSleep.exe.manifest
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\bin\Release\DontSleep.application
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\bin\Release\DontSleep.exe
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\bin\Release\DontSleep.pdb
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\obj\Release\DontSleep.csproj.AssemblyReference.cache
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\obj\Release\DontSleep.Properties.Resources.resources
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\obj\Release\DontSleep.csproj.GenerateResource.cache
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\obj\Release\DontSleep.csproj.CoreCompileInputs.cache
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\obj\Release\DontSleep.exe.manifest
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\obj\Release\DontSleep.application
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\obj\Release\DontSleep.exe
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\obj\Release\DontSleep.pdb

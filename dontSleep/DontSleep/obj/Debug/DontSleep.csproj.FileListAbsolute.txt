@@ -1,0 +1,14 @@
+C:\Users\Infinity\source\repos\DontSleep\DontSleep\bin\Debug\DontSleep.exe.config
+C:\Users\Infinity\source\repos\DontSleep\DontSleep\bin\Debug\DontSleep.exe
+C:\Users\Infinity\source\repos\DontSleep\DontSleep\bin\Debug\DontSleep.pdb
+C:\Users\Infinity\source\repos\DontSleep\DontSleep\obj\Debug\DontSleep.csproj.AssemblyReference.cache
+C:\Users\Infinity\source\repos\DontSleep\DontSleep\obj\Debug\DontSleep.csproj.SuggestedBindingRedirects.cache
+C:\Users\Infinity\source\repos\DontSleep\DontSleep\obj\Debug\DontSleep.Properties.Resources.resources
+C:\Users\Infinity\source\repos\DontSleep\DontSleep\obj\Debug\DontSleep.csproj.GenerateResource.cache
+C:\Users\Infinity\source\repos\DontSleep\DontSleep\obj\Debug\DontSleep.csproj.CoreCompileInputs.cache
+C:\Users\Infinity\source\repos\DontSleep\DontSleep\obj\Debug\DontSleep.exe
+C:\Users\Infinity\source\repos\DontSleep\DontSleep\obj\Debug\DontSleep.pdb
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\bin\Debug\DontSleep.exe.manifest
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\bin\Debug\DontSleep.application
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\obj\Debug\DontSleep.exe.manifest
+C:\Users\Infinity\source\repos\dontSleep\DontSleep\obj\Debug\DontSleep.application
